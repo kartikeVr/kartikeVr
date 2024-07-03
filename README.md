@@ -41,7 +41,7 @@
 
 <h2>🔗 Connect with Me:</h2>
 <p align="left">
-  <a href="www.linkedin.com/in/kartike-verma-749a53258" target="blank">
+  <a href="https://www.linkedin.com/in/kartike-verma-749a53258/" target="blank">
     <img align="center" src="https://cdn.dribbble.com/users/147003/screenshots/1541997/linkedin_400_x_300_comp.gif" alt="kartike verma" height="30" width="40" />
   </a>
   <a href="https://instagram.com/kartikeverma_24" target="blank">
