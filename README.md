@@ -15,6 +15,9 @@
 <br>
 <br>
 
+<br>
+<br>
+
 <h2>🔧 Skills & Interests:</h2>
 <ul>
   <li>Python Programming</li>
@@ -44,7 +47,7 @@
   <a href="https://www.linkedin.com/in/kartike-verma-749a53258/" target="blank">
     <img align="center" src="https://cdn.dribbble.com/users/147003/screenshots/1541997/linkedin_400_x_300_comp.gif" alt="kartike verma" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kartikeverma_24" target="blank">
+  <a href="https://www.instagram.com/kartikeverma_24?utm_source=qr&igsh=MTU4YTN4ZHM2cWF3aw==" target="blank">
     <img align="center" src="https://cdn.dribbble.com/users/291221/screenshots/5364847/instagram_dribbble.gif" alt="kartikeverma_24" height="30" width="40" />
   </a>
   <a href="mailto:kartikevrma2401@gmail.com" target="blank">
