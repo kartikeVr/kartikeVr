@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartike Verma</h1>
-<h3 align="center">I am a third-year student passionate about Python programming, IoT, and AIML. Currently, I am exploring new projects and expanding my knowledge in these fields. Welcome to my GitHub profile!</h3>
+<h3 align="left">I am a third-year student passionate about Python programming, IoT, and AIML. Currently, I am exploring new projects and expanding my knowledge in these fields. Welcome to my GitHub profile!</h3>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZldXl5eDFyaGN0dmg2ZGh0ODFmczFxd2ZrbGk4eTh2YXp5OTdxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding" align= "right" width="400"/>
 </p>
@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=kartikevr&label=Profile%20views&color=0e75b6&style=flat" alt="kartikevr" />
 </p>
 
-- 📫 How to reach me: **kartikevrma2401@gmail.com**
 
 <br>
+<br><br>
 <br>
 <br>
 <br>
@@ -85,5 +85,6 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
 </p>
-
+<br>
+<br>
 <p>Feel free to reach out if you'd like to collaborate or discuss any interesting ideas!</p>
