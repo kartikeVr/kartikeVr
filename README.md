@@ -15,8 +15,6 @@
 <br>
 <br>
 
-<br>
-<br>
 
 <h2>🔧 Skills & Interests:</h2>
 <ul>
