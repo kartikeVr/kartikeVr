@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartike Verma</h1>
 <h3 align="left">I am a third-year student passionate about Python programming, IoT, and AIML. Currently, I am exploring new projects and expanding my knowledge in these fields. Welcome to my GitHub profile!</h3>
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25meXdlZmlzODRmdnYydHF3c2tnd3F1bHNiYXgwazZqeGoxbmFpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" alt="coding" align= "right" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmszYWwwZzFxaTRkeXU0c2dqdDFxYWdqMzd3Nm15azQyYjFkb2VhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" alt="coding" align= "right" width="400"/>
 </p>
 
 <p align="left">
@@ -14,9 +14,6 @@
 <br>
 <br>
 <br>
-<br>
-
-
 
 <h2>🔧 Skills & Interests:</h2>
 <ul>
